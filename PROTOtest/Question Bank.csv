@@ -1,0 +1,32 @@
+1,Physics,Sensitivity of moving coil galvanometer depends on,A)number of turns in coil,B)magnetic field,C)area of the coil,D)All of the above,D,Easy
+2,Physics,"Lines of force ,due to the earths horizontal magnetic field are",A)elliptical,B)curved lines,C)concentric circles,D)parallel and straight,D,Hard
+3,Physics,"A wire of radius r has resistance R. If it is stretched to r/2 radius, the resistance becomes",A)2R,B)4R,C)16R,D)zero,C,Moderate
+4,Physics,"4 capacitors are connected in parallel to give effective C. If they are connected in series, the effective capacitance is ?",A)C/4,B)C/16,C)C,D)16C,B,Moderate
+5,Physics,In Lenz law there is conservation of,A)charge,B)momentum,C)energy,D)current,C,Easy
+6,Physics,A charged particle is free to move in and electric field. It will travel,A)always along a line of force,B)along a line of force if its initial velocity is zero,"C)along a line of force, if it has same initial velocity in the direction of an active angle with the line of force",D)none of the above,B,Moderate
+7,Physics,What is the nature of guassian surface involved in Guass' laws of electrostatics,A)Scalar,B)Electrical,C)Magnetic,D)Vector,D,Easy
+8,Physics,"When the charge on the body becomes half, the electric field becomes",A)Half,B)twice,C)no change,D)thrice,A,Easy
+9,Physics,What is the angle between the electric field strength and dipole moment due to it on the equatorial line ?,A)0 degrees,B)90 degrees,C)180 degrees,D)None of the above,C,Easy
+10,Physics,Which of the following charecteristics of electrons determines the current in a conductor?,A)drift velocity alone,B)Thermal Velocity alone,C)Both Drift Velocity and Thermal Velocity,D)neither Vd nor Thermal Velocity,A,Hard
+11,Chemistry,Which of the following natural amino acids is optically inactive?,A)Leucine,B)Glycine,C)Metheonine,D)Lysine,B,Easy
+12,Chemistry,Fibrous proteins are,A)Not soluble in water,B)Held by hydrogen bonds,C)Held by disulphide bonds,D)All of the above,D,Moderate
+13,Chemistry,"If more than one elimination is possible, the more substituted alkene is preferred. What rule is this?",A)Saytzeff,B)Markovnikov,C)Hammonds,D)none of the above,A,Easy
+14,Chemistry,Which is least acidic?,A)o-cresol,B)m-cresol,C)p-cresol,D)ethanol,D,Moderate
+15,Chemistry,What is the class of the main product in nucleophilic substitution reaction with KCN as reagent ?,A)isonitrile,B)Cyanide,C)Alkyl Nitrite,D)Nitroalkane,B,Hard
+16,Chemistry,The vacant space in BCC lattice cell is,A)26%,B)48%,C)23%,D)32%,D,Hard
+17,Chemistry,Cations are present in the interstitial sites in,A)Frenkel Defect,B)Schottky defect,C)vacancy defect,D)metal deficiency defect,A,Moderate
+18,Chemistry,Iodine molecules are held in the crystal lattice by,A)london forces,B)dipole-dipole,C)covalent bonds,D)coulombic forces,A,Moderate
+19,Chemistry,"Raoult's law becomes a special case of Henry's Law when,",A)kH=p10,B)kH<p10,C)kH>p10,D)kH=1,A,Easy
+20,Chemistry,Which of the following bases is not present in DNA,A)Adenine,B)Uracil,C)Thymine,D)Cytosine,B,Easy
+21,Mathematics,Cos^-1(4/5)+cos^-1(12/13)=cos^-1(y). Then y=,A)63/65,B)33/65,C)65/33,D)35/65,B,Hard
+22,Mathematics,"If A is a 3X4 matrix and B is a matrix such that A'B and BA' are both defined, order of B?",A)3X4,B)3X3,C)4X4,D)4X3,A,Easy
+23,Mathematics,The number of possible matrices of order 3X3 with each entry 4 or 5 is,A)9,B)27,C)81,D)512,D,Moderate
+24,Mathematics,"If A is a square matrix of order 3, |A|=3, |adj(adj(A))|=",A)81,B)27,C)3,D)243,A,Moderate
+25,Mathematics,The function y=|x-4| is not differentiable at x=,A)0,B)4,C)-4,D)1,B,Easy
+26,Mathematics,The function f(x)=1/x on R is,A)one-one,B)not defined,C)onto,D)one-one and onto,B,Moderate
+27,Mathematics,"f:X->Y in onto, if and only if",A)range of f=Y,B)domain of f=X,C)Domain of f=Range of f,D)None of the above,A,Easy
+28,Mathematics,"if tan-1(3/4)=A, then cosA=3/5",A)True,B)False,C)Can't say,D)Partially True,B,Moderate
+29,Mathematics,"If a matrix has 18 elements,then the possible number of its possible order is",A)2,B)4,C)6,D)8,C,Moderate
+30,Mathematics,Which of the following is incorrect for a matrix A?,A)inv(inv(A))=A,B)inv(AB)=(inv(B))(inv(A)),C)Both A and B,D)None of the above,D,Easy
+31,Physics,Which of the following is a vector?,A)Velocity,B)Field,C)Both A and B,D)None of the above,C,Easy
+32,Physics,Which of the following is a scalar?,A)Velocity,B)Field,C)Potential,D)All of these,C,Easy
